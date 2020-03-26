@@ -1,0 +1,28 @@
+{
+  "name": "playground-lodash",
+  "version": "1.0.0",
+  "description": "Playground for Lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohaibme/playground-lodash.git"
+  },
+  "keywords": [
+    "playground",
+    "lodash",
+    "playground-lodash",
+    "lodash-playground"
+  ],
+  "author": "Ahmed Sohaib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohaibme/playground-lodash/issues"
+  },
+  "homepage": "https://github.com/sohaibme/playground-lodash#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
